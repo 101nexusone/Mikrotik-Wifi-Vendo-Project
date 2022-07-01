@@ -1,20 +1,16 @@
-# JuanFi
+# Mikrotik Wifi Vendo
 
-JuanFi is an open source system for coinslot integration for mikrotik hotspot
+An open source ESP integration solution for Mikrotik hotspots is being developed in this project.
 
 ## Donation
 
 Donation is very welcome, if you want to donate, you can donate using 
 
 Gcash account:
-Ivan Julius Alayan
-09175425572
-
-Paypal account:
-https://www.paypal.com/paypalme/ivanalayan
+Jhon Ric Godinez
+09993555002
 
 # Community Group
-  FB: https://www.facebook.com/groups/1172413279934139
 
 ## Features
 
