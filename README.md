@@ -6,10 +6,6 @@ An open source ESP integration solution for Mikrotik hotspots is being developed
 
 Donation is very welcome, if you want to donate, you can donate using 
 
-Gcash account:
-Jhon Ric Godinez
-09993555002
-
 # Community Group
 
 ## Features
